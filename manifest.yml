@@ -1,0 +1,5 @@
+---
+applications:
+- name: hello-go
+  memory: 64M
+  instances: 1
